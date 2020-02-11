@@ -11,7 +11,7 @@ header:
     image: /assets/images/week-1/P1130011.jpg
     overlay_image: /assets/images/week-1/P1130011.jpg
     overlay_filter: 0.15
-    teaser: /assets/images/week-1/P1130011-teaser.png
+    teaser: /assets/images/week-1/P1130011-teaser.jpg
 ---
 
 NUS 的社團或宿舍活動很多，辦給交換生的活動也很多，
@@ -46,9 +46,9 @@ Tutorial hour 依照修課人數會分成許多小班級，在不同時段上課
 
 分別是 :
 
-	1. CS3211 Parallel and Concurrent Programming
-	2. CS3245 Information Retrieval
-	3. CS2113 Software Engineering & Object-Oriented Programming
+1. [CS3211 Parallel and Concurrent Programming](https://nusmods.com/modules/CS3211/parallel-and-concurrent-programming)
+2. [CS3245 Information Retrieval](https://nusmods.com/modules/CS3245/information-retrieval)
+3. [CS2113 Software Engineering & Object-Oriented Programming](https://nusmods.com/modules/CS2113/software-engineering-object-oriented-programming)
 
 ![]({{ site.baseurl }}/assets/images/week-1/Capture-1.png)
 
@@ -96,7 +96,7 @@ Arts 跟 SoC 中間有一個餐廳 Deck，聽說是校內最好吃的餐廳，
 
 跟 Utown 的餐廳不一樣，Deck 只有三樓有冷氣，
 
-更多 NUS 食物紀錄可以看 NUS 食記。
+更多 NUS 食物紀錄可以看[NUS 食記](https://katelo731.github.io/others/Others-NUS-食記/)。
 
 –
 
@@ -142,7 +142,7 @@ SoC 的課多數都有自己的課程網站，這門課的老師在還沒見面�
 
 目前上到 Week 2，整體而言覺得內容由淺入深，雖然沒學過 Java 但可以輕易吸收到相關知識👍
 
-我另外有整理上課![筆記](https://hackmd.io/BB1_KGeYRqWyYqnd43Q_-g?view)，讓想學 SE 的人們可以參考~
+我另外有整理上課[筆記](https://hackmd.io/BB1_KGeYRqWyYqnd43Q_-g?view)，讓想學 SE 的人們可以參考~
 
 –
 
