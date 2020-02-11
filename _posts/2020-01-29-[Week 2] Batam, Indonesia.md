@@ -7,7 +7,7 @@ categories:
 tags:
     - Indonesia
     - Batam
-    - Harbourfront mrt
+    - HarbourFront mrt
 header:
     image: /assets/images/week-2/P1250050.jpg
     overlay_image: /assets/images/week-2/P1250050.jpg

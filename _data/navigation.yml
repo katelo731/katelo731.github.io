@@ -10,6 +10,12 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+  - title: "Posts Archives"
+    url: /posts/
+  - title: "Tag Archives"
+    url: /tags/
+  - title: "Category Archives"
+    url: /categories/
 
 docs:
   - title: Archives
