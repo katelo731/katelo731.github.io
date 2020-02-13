@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "[Week 2] Batam, Indonesia"
-date: 2020-01-29
+date: 2020-01-24
 categories:
     - "Week-2"
 tags:
@@ -14,6 +14,8 @@ header:
     overlay_filter: 0.15
     teaser: /assets/images/week-2/P1250050-teaser.jpg
 ---
+
+Date : 2020/01/24 ~ 2020/01/26
 
 本來計畫去馬來西亞新山過新年，但遇到武漢病毒爆發，只好改行程去印尼玩😭😭
 

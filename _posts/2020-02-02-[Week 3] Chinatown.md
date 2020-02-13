@@ -1,20 +1,20 @@
 ---
 layout: single
 title: "[Week 3] Chinatown"
-date: 2020-02-03
+date: 2020-02-02
 categories:
     - "Week-3"
 tags:
     - Singapore
     - Chinatown mrt
-    - Smith Street
-    - Buddha Tooth Relic Temple
 header:
     image: /assets/images/week-3-2/P2020028.jpg
     overlay_image: /assets/images/week-3-2/P2020028.jpg
     overlay_filter: 0.15
     teaser: /assets/images/week-3-2/P2020028-teaser.jpg
 ---
+
+Date : 2020/02/02
 
 想一次買好想去景點的門票，所以先去 Chinatown 的旅行社，順便吃飯🥳
 

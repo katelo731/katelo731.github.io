@@ -1,20 +1,20 @@
 ---
 layout: single
 title: "[Week 1] Mount Faber Park、Vivo City"
-date: 2020-01-20
+date: 2020-01-19
 categories:
     - "Week-1"
 tags:
     - Singapore
     - HarbourFront mrt
-    - Mount Faber Park
-    - Vivo City
 header:
     image: /assets/images/week-1-2/P1190093.jpg
     overlay_image: /assets/images/week-1-2/P1190093.jpg
     overlay_filter: 0.15
     teaser: /assets/images/week-1-2/P1190093-teaser.jpg
 ---
+
+Date : 2020/01/19
 
 ![]({{ site.baseurl }}/assets/images/week-1-2/Capture-3.jpg)
 

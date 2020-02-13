@@ -7,13 +7,14 @@ categories:
 tags:
     - Singapore
     - NUS
-    - Utown
 header:
     image: /assets/images/week-0/PA051109.jpg
     overlay_image: /assets/images/week-0/PA051109.jpg
     overlay_filter: 0.15
     teaser: /assets/images/week-0/PA051109-teaser.jpg
 ---
+
+Date : 2020/01/06
 
 (這次拿太多行李就沒拍太多照，先偷用之前拍的照片🥺🥺)
 

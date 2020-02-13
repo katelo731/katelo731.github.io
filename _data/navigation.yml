@@ -16,13 +16,3 @@ main:
     url: /tags/
   - title: "Category Archives"
     url: /categories/
-
-docs:
-  - title: Archives
-    children:
-      - title: "Posts Archives"
-        url: /posts/
-      - title: "Tag Archives"
-        url: /tags/
-      - title: "Category Archives"
-        url: /categories/

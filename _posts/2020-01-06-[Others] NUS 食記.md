@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "[Others] NUS 食記"
-date: 2020-01-11
+date: 2020-01-06
 categories:
     - "Others"
 tags:
@@ -81,6 +81,10 @@ Iced milo ( SGD 1.6 )，飲料有奶茶跟美祿，都好喝🥰
 ![]({{ site.baseurl }}/assets/images/others/P_20200117_111051_1_edited-1024x768.jpg)
 
 雞飯 ( SGD 2.5 )，跟 FoodClique 的雞飯相比肉比較乾、而且比較小份，但是便宜一點。
+
+![]({{ site.baseurl }}/assets/images/others/P_20200204_112831.jpg)
+
+檸檬草咖哩雞飯 ( SGD 3.5 )，在三樓的冷氣區，雞腿比印尼吃到的好吃🤣
 
 ## [Science Canteen] (沒冷氣！)
 

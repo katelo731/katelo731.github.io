@@ -14,6 +14,8 @@ header:
     teaser: /assets/images/week-1/P1130011-teaser.jpg
 ---
 
+Date : 2020/01/14
+
 NUS 的社團或宿舍活動很多，辦給交換生的活動也很多，
 
 welcome party 就是其中之一，我參加了兩場，一場是給 Utown 居民參加，另一場是全校性的活動，

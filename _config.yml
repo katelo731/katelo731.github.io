@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "NUS SoC 交換紀錄"
+title                    : "新加坡國立大學 NUS 交換紀錄"
 title_separator          : "-"
 subtitle                 : "[2020 Spring]"
 name                     : "Kate Lo"
@@ -28,7 +28,7 @@ teaser                   : "/assets/images/404.jpg"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
-words_per_minute         : 50
+words_per_minute         : 25
 comments:
   provider               : "facebook" # false (default), "disqus", "discourse", "staticman", "staticman_v2", "utterances", "custom"
   disqus:

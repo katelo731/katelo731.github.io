@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "[Week 3] Johor Bahru, Malaysia"
-date: 2020-02-01
+date: 2020-01-30
 categories:
     - "Week-3"
 tags:
@@ -14,6 +14,8 @@ header:
     overlay_filter: 0.15
     teaser: /assets/images/week-3/P1300045-teaser.jpg
 ---
+
+Date : 2020/01/30
 
 ![]({{ site.baseurl }}/assets/images/week-3/Capture-4.png)
 

@@ -1,22 +1,20 @@
 ---
 layout: single
 title: "[Week 3] National Museum of Singapore、Peranakan Museum、Armenian Church、Chijmes"
-date: 2020-02-03
+date: 2020-02-02
 categories:
     - "Week-3"
 tags:
     - Singapore
     - Bencoolen mrt
-    - National Museum of Singapore
-    - Peranakan Museum
-    - Armenian Church
-    - Chijmes
 header:
     image: /assets/images/week-3-3/P2020179.jpg
     overlay_image: /assets/images/week-3-3/P2020179.jpg
     overlay_filter: 0.15
     teaser: /assets/images/week-3-3/P2020179-teaser.jpg
 ---
+
+Date : 2020/02/02
 
 ## [National Museum of Singapore]
 
