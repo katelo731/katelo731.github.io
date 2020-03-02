@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "[Week 1] Mount Faber Park、Vivo City"
+title: "[Week 1] Mount Faber Park, Vivo City"
 date: 2020-01-19
 categories:
     - "Week-1"

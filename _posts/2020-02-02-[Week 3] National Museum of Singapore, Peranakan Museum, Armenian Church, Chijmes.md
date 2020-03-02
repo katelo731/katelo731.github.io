@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "[Week 3] National Museum of Singapore、Peranakan Museum、Armenian Church、Chijmes"
+title: "[Week 3] National Museum of Singapore, Peranakan Museum, Armenian Church, Chijmes"
 date: 2020-02-02
 categories:
     - "Week-3"
