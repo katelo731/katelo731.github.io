@@ -16,6 +16,26 @@ header:
 
 這裡主要記錄學校餐廳的食物🤤
 
+## [Sapore Italian Restaurant]
+
+這是一間在 Utown 裡的義式餐廳，店內料理分為單點跟套餐，這次吃的是套餐。
+
+![]({{ site.baseurl }}/assets/images/others/P3310425-3.jpg)
+
+Pollo Alla Parmigiana ( SGD 19.1 )
+
+![]({{ site.baseurl }}/assets/images/others/P3310426-4.jpg)
+
+Homemade Tagliatelle Del Sapore ( SGD 21.5 ) 
+
+![]({{ site.baseurl }}/assets/images/others/P3310423-1.jpg)
+
+飲料加價升級的鮮奶優酪乳 ( + SGD 3 )，味道很濃郁😍
+
+![]({{ site.baseurl }}/assets/images/others/P3310430-7.jpg)
+
+加點的提拉米蘇 ( + SGD 5 )，是用泡過黑咖啡的手指餅乾當基底🤤
+
 ## [Fine Food]
 
 ![]({{ site.baseurl }}/assets/images/others/P1190003-1024x683.jpg)
