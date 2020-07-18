@@ -8,10 +8,10 @@ tags:
     - Singapore
     - NUS
 header:
-    image: /assets/images/week-1/P1130011.jpg
-    overlay_image: /assets/images/week-1/P1130011.jpg
+    image: /assets/images/week-1/P3280073-2.jpg
+    overlay_image: /assets/images/week-1/P3280073-2.jpg
     overlay_filter: 0.15
-    teaser: /assets/images/week-1/P1130011-teaser.jpg
+    teaser: /assets/images/week-1/P3280073-teaser.jpg
 ---
 
 Date : 2020/01/14
@@ -43,6 +43,8 @@ Tutorial hour 依照修課人數會分成許多小班級，在不同時段上課
 通常是第三週開始上課，有些課似乎是隔週會有 Tutorial hour。
 
 –
+
+![]({{ site.baseurl }}/assets/images/week-1/P3280073-2.jpg)
 
 這學期我修了 3 門課，都是 SoC 比較進階的課程，
 
