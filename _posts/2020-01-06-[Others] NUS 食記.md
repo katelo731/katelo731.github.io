@@ -36,6 +36,18 @@ Homemade Tagliatelle Del Sapore ( SGD 21.5 )
 
 加點的提拉米蘇 ( + SGD 5 )，是用泡過黑咖啡的手指餅乾當基底🤤
 
+## [Udon Don Bar]
+
+這是在 Utown 裡的日式餐廳，位在校車候車亭旁，每次吃飯時間經過都很多人用餐，價位不貴。
+
+Chicken Katsu Curry Rice ( SGD 8 )
+
+![]({{ site.baseurl }}/assets/images/others/P3280069-3.jpg)
+
+Chicken Oyakodon ( SGD 7.5 )
+
+![]({{ site.baseurl }}/assets/images/others/P3280066-1.jpg)
+
 ## [Fine Food]
 
 ![]({{ site.baseurl }}/assets/images/others/P1190003-1024x683.jpg)
